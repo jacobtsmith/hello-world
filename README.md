@@ -1,2 +1,5 @@
 # hello-world
-This is the classic test file Hello World
+
+Happy to exist here
+This is the classic test code
+If it fails, so what
